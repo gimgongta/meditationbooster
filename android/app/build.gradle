@@ -77,9 +77,9 @@ android {
     buildToolsVersion rootProject.ext.buildToolsVersion
     compileSdk rootProject.ext.compileSdkVersion
 
-    namespace "com.meditationbooster"
+    namespace "com.gimgongta.meditationbooster"
     defaultConfig {
-        applicationId "com.meditationbooster"
+        applicationId "com.gimgongta.meditationbooster"
         minSdkVersion rootProject.ext.minSdkVersion
         targetSdkVersion rootProject.ext.targetSdkVersion
         versionCode 1

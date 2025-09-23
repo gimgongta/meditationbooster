@@ -1,4 +1,4 @@
-package com.meditationbooster
+package com.gimgongta.meditationbooster
 
 import android.app.Application
 import com.facebook.react.PackageList

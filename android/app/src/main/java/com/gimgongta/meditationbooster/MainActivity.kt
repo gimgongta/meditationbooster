@@ -1,4 +1,4 @@
-package com.meditationbooster
+package com.gimgongta.meditationbooster
 
 import com.facebook.react.ReactActivity
 import com.facebook.react.ReactActivityDelegate
