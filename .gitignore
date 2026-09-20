@@ -32,7 +32,11 @@ local.properties
 *.hprof
 .cxx/
 *.keystore
+*.jks
 !debug.keystore
+keystore.properties
+# assembleRelease 산출물 (실수로 커밋돼 있었음)
+android/app/release/
 .kotlin/
 
 # node.js
